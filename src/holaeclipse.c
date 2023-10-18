@@ -14,5 +14,8 @@
 int main(void) {
 	puts("Hola Eclipse!\n"); /* prints !!!Hello World!!! */
 	puts("Que tal?\n"); /* prints !!!Hello World!!! */
+
+	// comentario
+
 	return EXIT_SUCCESS;
 }
